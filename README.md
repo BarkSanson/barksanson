@@ -3,7 +3,7 @@
 **🤔About me**
 - Hi! My name is **Martín Rizzo**
 - I'm currently studying **Computer Engineering** at
-the Balearic Islands University (_Universitat de les Illes Balears_)
+the University of the Balearic Islands (_Universitat de les Illes Balears_)
 - Love both high and low level programming, as well as the Linux Environment
 
 **🧰 Languages and tools**
