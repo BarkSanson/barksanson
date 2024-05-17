@@ -3,7 +3,7 @@
 **🤔About me**
 - Hi! My name is **Martín Rizzo**
 - I'm a Computer Engineer and I'm currently working as Research Engineer at the University of the Balearic Islands.
-- I love the "systems part": computer architecture, low level programming, embedded systems, networks and a long etcetera.
+- I love the "systems part": computer architecture, HPC, low level programming, embedded systems and AI.
 - Yeah, I believe in Rust supremacy but I also love C/C++, although I'm currently working with Python full time 🙄
 
 **🧰 Languages and tools**
