@@ -18,7 +18,9 @@
 
 **🤩 Certifications**
 <div>
-  <ul>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="95b1ef73-4ea5-44fe-a91d-1745475c0f60" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  </ul>
+  <div>
+    <a href="https://www.credly.com/badges/95b1ef73-4ea5-44fe-a91d-1745475c0f60/public_url">
+      <img src="./cka-certified-kubernetes-administrator.png" width=40 height=40>
+    </a>
+  </div>
 </div>
