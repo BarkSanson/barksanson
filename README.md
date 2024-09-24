@@ -22,5 +22,6 @@
     <a href="https://www.credly.com/badges/95b1ef73-4ea5-44fe-a91d-1745475c0f60/public_url">
       <img src="./cka-certified-kubernetes-administrator.png" width=80 height=80>
     </a>
+    <img src="./mongo-dba-associate.png" width=80 height=80>
   </div>
 </div>
